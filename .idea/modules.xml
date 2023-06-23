@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Euler/Euler.iml" filepath="$PROJECT_DIR$/Euler/Euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GFG/GFG.iml" filepath="$PROJECT_DIR$/GFG/GFG.iml" />
       <module fileurl="file://$PROJECT_DIR$/NEW.iml" filepath="$PROJECT_DIR$/NEW.iml" />
     </modules>
   </component>
