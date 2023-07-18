@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Euler/Euler.iml" filepath="$PROJECT_DIR$/Euler/Euler.iml" />
       <module fileurl="file://$PROJECT_DIR$/GFG/GFG.iml" filepath="$PROJECT_DIR$/GFG/GFG.iml" />
       <module fileurl="file://$PROJECT_DIR$/NEW.iml" filepath="$PROJECT_DIR$/NEW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TIC_TAC_TOE/TIC_TAC_TOE.iml" filepath="$PROJECT_DIR$/../TIC_TAC_TOE/TIC_TAC_TOE.iml" />
     </modules>
   </component>
 </project>
